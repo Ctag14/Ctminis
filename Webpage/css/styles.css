@@ -283,6 +283,7 @@ body {
     cursor: pointer;
     font-size: 35px;
     visibility: hidden;
+    pointer-events: none;
 }
 .gallery__img:hover {  
     filter: brightness(0.7);
