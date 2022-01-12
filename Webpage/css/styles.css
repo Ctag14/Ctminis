@@ -277,7 +277,7 @@ body {
     transition: 0.2s;
 }
 .gallery__mag {
-    z-index: 99999;
+    z-index: 2;
     position: absolute;
     color: rgb(255, 255, 255);
     cursor: pointer;
