@@ -4,7 +4,7 @@ $(function() {
     const lightbox = $("#lightbox");
     $(".xicon").on("click", () => {
         lightbox.removeClass("show");
-        $(".lightbox__img").attr("src","blank");
+        $(".lightbox__img").attr("src"," ");
 
     });
     $(".gallery__img").on("click", function(){
